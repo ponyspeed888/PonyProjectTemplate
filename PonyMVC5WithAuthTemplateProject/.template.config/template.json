@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Me",
+  "name": "pony1",
+  "classifications": [ "Common", "Console", "C#9" ],
+  "identity": "pony1",
+
+  "shortName": "pony1",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
