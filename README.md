@@ -1,4 +1,7 @@
-﻿The project contains a collection of project template for creating .net 5 and .net 6 asp.net mvc project.  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fponyspeed888%2FPonyProjectTemplate&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+The project contains a collection of project template for creating .net 5 and .net 6 asp.net mvc project.  
 Unable most other projecte templates, these project template is designed for easy of use while your are learning asp.net core mvc.
 For example :
 
